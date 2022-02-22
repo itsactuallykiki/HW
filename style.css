@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: #000000;
+}
+.btn {
+  border: solid 3px black;
+  width: 100px;
+  height: 100px;
+  display: inline;
+  font-size: 30px;
+  color: #ffffff;
+}
+h1{
+  font-size: 60px;
+  color: #c43333;
+}
